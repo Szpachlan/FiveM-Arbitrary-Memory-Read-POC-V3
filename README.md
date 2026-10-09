@@ -255,8 +255,6 @@ makes it a signal that survives variants rather than a one-off patch.
 - [FiveM Legacy MonoRT2 Memory Read Research](https://github.com/Szpachlan/FiveM-Legacy-MonoRT2-Memory-Read-Research)
 - [FiveM V8 Arbitrary File Read Research](https://github.com/Szpachlan/FiveM-V8-Arbitrary-File-Read-Research)
 
-Same ecosystem, same class of native-argument-handling bugs.
-
 ---
 
 ## Disclaimer
